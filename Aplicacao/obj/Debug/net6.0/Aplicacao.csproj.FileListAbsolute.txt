@@ -1,0 +1,12 @@
+C:\Users\Domvs\OneDrive\Área de Trabalho\Estudos\C#\API_DDD\Aplicacao\bin\Debug\net6.0\Aplicacao.deps.json
+C:\Users\Domvs\OneDrive\Área de Trabalho\Estudos\C#\API_DDD\Aplicacao\bin\Debug\net6.0\Aplicacao.dll
+C:\Users\Domvs\OneDrive\Área de Trabalho\Estudos\C#\API_DDD\Aplicacao\bin\Debug\net6.0\Aplicacao.pdb
+C:\Users\Domvs\OneDrive\Área de Trabalho\Estudos\C#\API_DDD\Aplicacao\obj\Debug\net6.0\Aplicacao.csproj.AssemblyReference.cache
+C:\Users\Domvs\OneDrive\Área de Trabalho\Estudos\C#\API_DDD\Aplicacao\obj\Debug\net6.0\Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domvs\OneDrive\Área de Trabalho\Estudos\C#\API_DDD\Aplicacao\obj\Debug\net6.0\Aplicacao.AssemblyInfoInputs.cache
+C:\Users\Domvs\OneDrive\Área de Trabalho\Estudos\C#\API_DDD\Aplicacao\obj\Debug\net6.0\Aplicacao.AssemblyInfo.cs
+C:\Users\Domvs\OneDrive\Área de Trabalho\Estudos\C#\API_DDD\Aplicacao\obj\Debug\net6.0\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Domvs\OneDrive\Área de Trabalho\Estudos\C#\API_DDD\Aplicacao\obj\Debug\net6.0\Aplicacao.dll
+C:\Users\Domvs\OneDrive\Área de Trabalho\Estudos\C#\API_DDD\Aplicacao\obj\Debug\net6.0\refint\Aplicacao.dll
+C:\Users\Domvs\OneDrive\Área de Trabalho\Estudos\C#\API_DDD\Aplicacao\obj\Debug\net6.0\Aplicacao.pdb
+C:\Users\Domvs\OneDrive\Área de Trabalho\Estudos\C#\API_DDD\Aplicacao\obj\Debug\net6.0\ref\Aplicacao.dll
